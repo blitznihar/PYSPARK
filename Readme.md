@@ -1,3 +1,5 @@
+<h1>PySpark, Delta Lake, Apache Arrow, Pandas</h1>
+
 <table>
 <tr>
 <td><img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="200" height="100" /></td>
@@ -5,7 +7,6 @@
 <td><img src="https://arrow.apache.org/img/arrow-inverse-300px.png" width="200" height="100" /></td>
 </tr>
 <table>
-# PySpark, Delta Lake, Apache Arrow, Pandas
 
 1. Simple getting started with PySpark and Delta Lake
 2. [Quickstart: DataFrame](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart_df.html)
