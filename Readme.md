@@ -3,12 +3,18 @@
 <div>
     <table>
         <tr>
-            <td><img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="200"></td>
+            <td><img src="" width="200"></td>
             <td><img src="https://delta.io/static/delta-lake-logo-a1c0d80d23c17de5f5d7224cb40f15dc.svg" width="200"></td>
         </tr>
     </table>
 </div>
 ```
+
+![PySpark](https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png | width=100)
+![DeltaLake](https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png | width=100)
+![Arrow](https://arrow.apache.org/img/arrow-inverse-300px.png | width=100)
+
+
 
 # PySpark, Delta Lake, Apache Arrow, Pandas
 
