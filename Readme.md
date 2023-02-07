@@ -1,6 +1,6 @@
-![PySpark](https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png)
+![PySpark](https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png =200x100)
 ![DeltaLake](https://delta.io/static/delta-lake-logo-a1c0d80d23c17de5f5d7224cb40f15dc.svg)
-![Arrow](https://arrow.apache.org/img/arrow-inverse-300px.png)
+![Arrow](https://arrow.apache.org/img/arrow-inverse-300px.png =200x100)
 
 # PySpark, Delta Lake, Apache Arrow, Pandas
 
