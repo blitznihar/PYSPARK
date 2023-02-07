@@ -1,7 +1,10 @@
-<img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="200" height="100" />
-![DeltaLake](https://delta.io/static/delta-lake-logo-a1c0d80d23c17de5f5d7224cb40f15dc.svg)
-<img src="https://arrow.apache.org/img/arrow-inverse-300px.png" width="200" height="100" />
-
+<table>
+<tr>
+<td><img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="200" height="100" /></td>
+<td><img src="https://delta.io/static/delta-lake-logo-a1c0d80d23c17de5f5d7224cb40f15dc.svg" width="200" height="100" /></td>
+<td><img src="https://arrow.apache.org/img/arrow-inverse-300px.png" width="200" height="100" /></td>
+</tr>
+<table>
 # PySpark, Delta Lake, Apache Arrow, Pandas
 
 1. Simple getting started with PySpark and Delta Lake
